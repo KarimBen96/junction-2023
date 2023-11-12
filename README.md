@@ -1,1 +1,1 @@
-An application to maange Pain and create Safer Solutions!
+An application to Manage Pain and create Safer Solutions!
